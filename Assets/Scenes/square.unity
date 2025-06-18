@@ -1452,7 +1452,6 @@ GameObject:
   - component: {fileID: 98072235}
   - component: {fileID: 98072237}
   - component: {fileID: 98072236}
-  - component: {fileID: 98072238}
   m_Layer: 0
   m_Name: rosa
   m_TagString: Untagged
@@ -1557,20 +1556,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &98072238
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 98072234}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &99622009
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -6170,7 +6155,6 @@ GameObject:
   - component: {fileID: 469289397}
   - component: {fileID: 469289399}
   - component: {fileID: 469289398}
-  - component: {fileID: 469289400}
   m_Layer: 0
   m_Name: rosa (6)
   m_TagString: Untagged
@@ -6186,7 +6170,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 469289396}
   m_LocalRotation: {x: -0, y: -0.74362385, z: -0, w: 0.6685983}
-  m_LocalPosition: {x: -1.2152258, y: -3623, z: -1.0373751}
+  m_LocalPosition: {x: -1.215, y: -3623, z: -1.043}
   m_LocalScale: {x: 1.399216, y: 1, z: 0.71375805}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6275,20 +6259,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &469289400
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 469289396}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &471571998
 GameObject:
   m_ObjectHideFlags: 0
@@ -9904,7 +9874,6 @@ GameObject:
   - component: {fileID: 850642344}
   - component: {fileID: 850642346}
   - component: {fileID: 850642345}
-  - component: {fileID: 850642347}
   m_Layer: 0
   m_Name: rosa (5)
   m_TagString: Untagged
@@ -10009,20 +9978,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &850642347
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 850642343}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &851590657
 GameObject:
   m_ObjectHideFlags: 0
@@ -11320,7 +11275,6 @@ GameObject:
   - component: {fileID: 936029208}
   - component: {fileID: 936029210}
   - component: {fileID: 936029209}
-  - component: {fileID: 936029211}
   m_Layer: 0
   m_Name: rosa (7)
   m_TagString: Untagged
@@ -11425,20 +11379,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &936029211
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 936029207}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &936214508
 GameObject:
   m_ObjectHideFlags: 0
@@ -12259,7 +12199,6 @@ GameObject:
   - component: {fileID: 981791043}
   - component: {fileID: 981791045}
   - component: {fileID: 981791044}
-  - component: {fileID: 981791046}
   m_Layer: 0
   m_Name: rosa (1)
   m_TagString: Untagged
@@ -12364,20 +12303,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &981791046
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 981791042}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &985519416
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -14102,7 +14027,6 @@ GameObject:
   - component: {fileID: 1086710945}
   - component: {fileID: 1086710947}
   - component: {fileID: 1086710946}
-  - component: {fileID: 1086710948}
   m_Layer: 0
   m_Name: rosa (7)
   m_TagString: Untagged
@@ -14207,20 +14131,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &1086710948
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1086710944}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1089626336
 GameObject:
   m_ObjectHideFlags: 0
@@ -18317,7 +18227,6 @@ GameObject:
   - component: {fileID: 1355435901}
   - component: {fileID: 1355435903}
   - component: {fileID: 1355435902}
-  - component: {fileID: 1355435904}
   m_Layer: 0
   m_Name: rosa (6)
   m_TagString: Untagged
@@ -18422,20 +18331,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &1355435904
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1355435900}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1360385382
 GameObject:
   m_ObjectHideFlags: 0
@@ -20780,7 +20675,6 @@ GameObject:
   - component: {fileID: 1526119282}
   - component: {fileID: 1526119284}
   - component: {fileID: 1526119283}
-  - component: {fileID: 1526119285}
   m_Layer: 0
   m_Name: rosa (4)
   m_TagString: Untagged
@@ -20885,20 +20779,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &1526119285
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1526119281}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1530994265
 GameObject:
   m_ObjectHideFlags: 0
@@ -25522,7 +25402,6 @@ GameObject:
   - component: {fileID: 1832139209}
   - component: {fileID: 1832139208}
   - component: {fileID: 1832139207}
-  - component: {fileID: 1832139210}
   m_Layer: 0
   m_Name: floor leds (90)
   m_TagString: Untagged
@@ -25538,8 +25417,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1832139205}
   m_LocalRotation: {x: 0.00011039908, y: 0.0000009238719, z: 0.0006089441, w: -0.9999999}
-  m_LocalPosition: {x: -0.35, y: -106, z: -126.73}
-  m_LocalScale: {x: 0.017211124, y: 1.5079, z: 28.171991}
+  m_LocalPosition: {x: -0.3461, y: -106.8, z: -130.19}
+  m_LocalScale: {x: 0.017211124, y: 1.5079, z: 21.697222}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2048173881}
@@ -25608,20 +25487,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1832139205}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!136 &1832139210
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1832139205}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.50000024
-  m_Height: 0.9999999
-  m_Direction: 1
-  m_Center: {x: 0.000002861023, y: -0.0000023841858, z: -0.00000047683716}
 --- !u!136 &1835966531
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26343,7 +26208,6 @@ GameObject:
   - component: {fileID: 1916382030}
   - component: {fileID: 1916382029}
   - component: {fileID: 1916382028}
-  - component: {fileID: 1916382031}
   m_Layer: 0
   m_Name: rosa (4)
   m_TagString: Untagged
@@ -26448,20 +26312,6 @@ Transform:
   m_Father: {fileID: 897168492}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &1916382031
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1916382027}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1922673794
 GameObject:
   m_ObjectHideFlags: 0
@@ -26727,7 +26577,6 @@ GameObject:
   - component: {fileID: 1950008458}
   - component: {fileID: 1950008460}
   - component: {fileID: 1950008459}
-  - component: {fileID: 1950008461}
   m_Layer: 0
   m_Name: rosa (5)
   m_TagString: Untagged
@@ -26832,20 +26681,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!136 &1950008461
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1950008457}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1953206817
 GameObject:
   m_ObjectHideFlags: 0
